@@ -1,0 +1,15 @@
+{
+    "name": "mourad/php-mvc-framework",
+    "authors": [
+        {
+            "name": "Mourad",
+            "email": "mourad.zitouni@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
